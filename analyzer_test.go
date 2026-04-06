@@ -3,7 +3,7 @@ package gormdurationlinter_test
 import (
 	"testing"
 
-	"github.com/lema-ai/gormdurationlinter"
+	"github.com/Avihuc/gormdurationlinter"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

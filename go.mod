@@ -1,4 +1,4 @@
-module github.com/lema-ai/gormdurationlinter
+module github.com/Avihuc/gormdurationlinter
 
 go 1.24.7
 

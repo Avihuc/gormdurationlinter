@@ -2,7 +2,7 @@ package plugin
 
 import (
 	"github.com/golangci/plugin-module-register/register"
-	"github.com/lema-ai/gormdurationlinter"
+	"github.com/Avihuc/gormdurationlinter"
 	"golang.org/x/tools/go/analysis"
 )
 
